@@ -1,2 +1,3 @@
-# giuliano1990.github.io
 CV_Trabajo Final
+Entrega del proyecto
+Front end Academy - 2022
